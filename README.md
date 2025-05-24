@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center"> Hello, I'm Valentina! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;ABOUT ME
 
 <!--
 **valentinaclim5/valentinaclim5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
