@@ -50,7 +50,7 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=valentinaclim5&theme=dark&hide_border=false" width="400" />
 
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valentinaclim5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaclim5&layout=compact&random=123">
 
 
 ---
