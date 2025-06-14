@@ -51,7 +51,7 @@
 
 <br/>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaclim5&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaclim5&layout=compact&random=123">
 
 
 ---
